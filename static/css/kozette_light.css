@@ -1,0 +1,46 @@
+// light theme for Kozette
+// 
+// use it with /themes light
+
+body.light {
+	background-color: #ecf0f1;
+	color: #333333;
+}
+
+input.light, 
+textarea.light {
+	color: #333333;
+}
+
+a.light {
+	color: #333333;
+}
+
+#nav.light {
+	background: #f2f3f5;
+}
+
+#pinned.light {
+	background: #f2f3f5;
+}
+
+#user.light {
+	color: #333333;
+}
+
+#content.light {
+	height: 100%;
+	background: white;
+}
+
+.message-item.light {
+	color: #333333;
+}
+
+.message-pinned.light {
+	color: #333333;
+}
+
+.gutter.light {
+	background-color: #dfdfdf;
+}
